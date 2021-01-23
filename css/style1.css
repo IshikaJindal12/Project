@@ -1,0 +1,183 @@
+.container
+{   width: 100%;
+	height: auto;
+    background-color: #8080801c;
+}
+.head
+{   width: 100%;
+	height: 100px;
+	background: white;
+}
+.logo
+{  width: 20%;
+	float: left;
+	height: 60%;
+}
+.logo img {
+    width: 80%;
+    height: 100px;
+}
+.nav {
+    height: 100px;
+}
+#i8{
+margin-left: 20px;
+}
+.nav ul {
+    list-style: none;
+    color: purple;
+    margin-top: 20px;
+}
+.nav ul li {
+    font-family:Comic Sans MS;
+    float: left;
+    width: auto;
+    line-height: 40px;
+     height: 40px;
+    position: relative;
+    overflow: hidden;
+    font-size: 20px;
+    padding-right: 30px;
+    margin-top: 20px;
+}
+.list
+{
+ margin-left:380px;
+ text-align: center;
+ font-size: 20px;
+
+}
+.ac
+{  border:1px solid purple;
+  text-decoration: none;
+   padding-right: 10px;
+    padding-left: 10px;
+}
+.first{
+    height: 540px;
+}
+.first img {
+    width: 100%;
+    height:540px;
+}
+.pos{
+     position: absolute;
+    top:12%;
+    left: 50%;
+    transform: translate(-50%,137%);
+    color:white;
+ 
+    font-family:Comic Sans MS;
+}
+p.i1{
+    transform: translate(1%,-85%);
+}
+.second{
+
+width:50%;
+height: 1514px;
+background-color:#ffffffbf;
+margin-left: 400px;
+
+}
+.a img{
+        width: 80%;
+    height: 400px;
+    margin-left: 82px;
+}
+p.b{
+   font-family:Comic Sans MS;
+margin-left: 90px; 
+font-size: 18px;  
+}
+.c{
+    height: 405px;
+}
+.c img{
+        width: 80%;
+    height: 400px;
+    margin-left: 82px;
+}
+.qwer{
+    transform: translate(17%,-263%);
+    color: white;
+     font-family:Comic Sans MS;
+}.d{
+    height: 100px;
+}
+
+ .d img{
+ height:62px;
+ width: 69px;
+ transform: translate(135%,-66%);
+}
+.e{
+    height: 360px;
+}
+.aa
+{  margin-top: 5%;
+    float: left;
+    width: 250px;
+    height: auto;
+}
+.aa img {
+    height: 88px;
+    width: 50px;
+        margin-left: 40%;
+}
+.bb{
+        font-size: 11px;
+    margin-top: -5%;
+    font-family: comic sans ms;
+    color: grey;
+    margin-left: 17%;
+}
+
+.f{
+    height: 150px;
+    width: 127%;
+    background: #808080db;
+    margin-left: -401px;
+}
+.posss{
+
+       font-family: comic sans ms;
+    color: white;
+    font-size: 25px;
+       width: 54%;
+transform: translate(85%,155%);
+}
+.footer{
+    height: 415px;
+    width:99%;
+    padding-right:25px;
+    background-color: #80808040;
+
+}
+.logo1 img{
+    width:50%;
+    height: 80px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.logo1{
+    width: 25%;
+    float: left;
+    height: 45%;
+}
+.l5{
+    margin-right: 419px;
+    float: left;
+    list-style: none;
+    margin-top: 110px;
+    font-family: Comic Sans MS;
+    justify-content: space-between;
+    margin-left: -327px;
+}
+.pop
+{
+margin-left:70px;
+}
+
+
+
